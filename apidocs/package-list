@@ -1,7 +1,0 @@
-com.holidu.interview.assignment
-com.holidu.interview.assignment.controller
-com.holidu.interview.assignment.dao.model
-com.holidu.interview.assignment.dao.repository
-com.holidu.interview.assignment.dto
-com.holidu.interview.assignment.restclient
-com.holidu.interview.assignment.service
